@@ -1,5 +1,5 @@
-export const words = {
-  acorn: {
+export default [
+  {
     img: 'acorn',
     mean: 'acorn',
     jp: {
@@ -9,7 +9,7 @@ export const words = {
     },
     category: 'nature'
   },
-  airplane: {
+  {
     img: 'airplane',
     mean: 'airplane',
     jp: {
@@ -19,7 +19,7 @@ export const words = {
     },
     category: 'transportation'
   },
-  airport: {
+  {
     img: 'airport',
     mean: 'airport',
     jp: {
@@ -29,7 +29,7 @@ export const words = {
     },
     category: 'city'
   },
-  alarmclock: {
+  {
     img: 'alarmclock',
     mean: 'alarm clock',
     jp: {
@@ -39,7 +39,7 @@ export const words = {
     },
     category: 'house'
   },
-  alligator: {
+  {
     img: 'alligator',
     mean: 'alligator',
     jp: {
@@ -49,7 +49,7 @@ export const words = {
     },
     category: 'nature'
   },
-  almond: {
+  {
     img: 'almond',
     mean: 'almond',
     jp: {
@@ -59,7 +59,7 @@ export const words = {
     },
     category: 'nature'
   },
-  ambulance: {
+  {
     img: 'ambulance',
     mean: 'ambulance',
     jp: {
@@ -69,7 +69,7 @@ export const words = {
     },
     category: 'health'
   },
-  ant: {
+  {
     img: 'ant',
     mean: 'ant',
     jp: {
@@ -79,7 +79,7 @@ export const words = {
     },
     category: 'nature'
   },
-  april: {
+  {
     img: 'april',
     mean: 'april',
     jp: {
@@ -89,7 +89,7 @@ export const words = {
     },
     category: 'time'
   },
-  ashtray: {
+  {
     img: 'ashtray',
     mean: 'ashtray',
     jp: {
@@ -99,7 +99,7 @@ export const words = {
     },
     category: 'house'
   },
-  asparagus: {
+  {
     img: 'asparagus',
     mean: 'asparagus',
     jp: {
@@ -109,7 +109,7 @@ export const words = {
     },
     category: 'nature'
   },
-  august: {
+  {
     img: 'august',
     mean: 'august',
     jp: {
@@ -119,7 +119,7 @@ export const words = {
     },
     category: 'time'
   },
-  autumn: {
+  {
     img: 'autumn',
     mean: 'autumn',
     jp: {
@@ -129,7 +129,7 @@ export const words = {
     },
     category: 'time'
   },
-  avocado: {
+  {
     img: 'avocado',
     mean: 'avocado',
     jp: {
@@ -139,7 +139,7 @@ export const words = {
     },
     category: 'nature'
   },
-  baby: {
+  {
     img: 'baby',
     mean: 'baby',
     jp: {
@@ -149,7 +149,7 @@ export const words = {
     },
     category: 'people'
   },
-  bacon: {
+  {
     img: 'bacon',
     mean: 'bacon',
     jp: {
@@ -159,7 +159,7 @@ export const words = {
     },
     category: 'nature'
   },
-  badminton: {
+  {
     img: 'badminton',
     mean: 'badminton',
     jp: {
@@ -169,7 +169,7 @@ export const words = {
     },
     category: 'fun'
   },
-  bag: {
+  {
     img: 'bag',
     mean: 'bag',
     jp: {
@@ -179,7 +179,7 @@ export const words = {
     },
     category: 'people'
   },
-  bagel: {
+  {
     img: 'bagel',
     mean: 'bagel',
     jp: {
@@ -189,7 +189,7 @@ export const words = {
     },
     category: 'nature'
   },
-  bakery: {
+  {
     img: 'bakery',
     mean: 'bakery',
     jp: {
@@ -199,7 +199,7 @@ export const words = {
     },
     category: 'city'
   },
-  balloon: {
+  {
     img: 'balloon',
     mean: 'balloon',
     jp: {
@@ -209,7 +209,7 @@ export const words = {
     },
     category: 'fun'
   },
-  bamboo: {
+  {
     img: 'bamboo',
     mean: 'bamboo',
     jp: {
@@ -219,7 +219,7 @@ export const words = {
     },
     category: 'nature'
   },
-  banana: {
+  {
     img: 'banana',
     mean: 'banana',
     jp: {
@@ -229,7 +229,7 @@ export const words = {
     },
     category: 'nature'
   },
-  bandaid: {
+  {
     img: 'bandaid',
     mean: 'bandaid',
     jp: {
@@ -239,7 +239,7 @@ export const words = {
     },
     category: 'health'
   },
-  bank: {
+  {
     img: 'bank',
     mean: 'bank',
     jp: {
@@ -249,7 +249,7 @@ export const words = {
     },
     category: 'city'
   },
-  barley: {
+  {
     img: 'barley',
     mean: 'barley',
     jp: {
@@ -259,7 +259,7 @@ export const words = {
     },
     category: 'nature'
   },
-  baseball: {
+  {
     img: 'baseball',
     mean: 'baseball',
     jp: {
@@ -269,7 +269,7 @@ export const words = {
     },
     category: 'fun'
   },
-  basketball: {
+  {
     img: 'basketball',
     mean: 'basketball',
     jp: {
@@ -279,7 +279,7 @@ export const words = {
     },
     category: 'fun'
   },
-  bathroom: {
+  {
     img: 'bathroom',
     mean: 'bathroom',
     jp: {
@@ -289,7 +289,7 @@ export const words = {
     },
     category: 'house'
   },
-  bathroomscale: {
+  {
     img: 'bathroomscale',
     mean: 'bathroom scale',
     jp: {
@@ -299,7 +299,7 @@ export const words = {
     },
     category: 'house'
   },
-  bathtub: {
+  {
     img: 'bathtub',
     mean: 'bath tub',
     jp: {
@@ -309,7 +309,7 @@ export const words = {
     },
     category: 'house'
   },
-  battery: {
+  {
     img: 'battery',
     mean: 'battery',
     jp: {
@@ -319,7 +319,7 @@ export const words = {
     },
     category: 'house'
   },
-  beach: {
+  {
     img: 'beach',
     mean: 'beach',
     jp: {
@@ -329,7 +329,7 @@ export const words = {
     },
     category: 'nature'
   },
-  beans: {
+  {
     img: 'beans',
     mean: 'beans',
     jp: {
@@ -339,7 +339,7 @@ export const words = {
     },
     category: 'nature'
   },
-  bed: {
+  {
     img: 'bed',
     mean: 'bed',
     jp: {
@@ -349,7 +349,7 @@ export const words = {
     },
     category: 'house'
   },
-  bedroom: {
+  {
     img: 'bedroom',
     mean: 'bedroom',
     jp: {
@@ -359,7 +359,7 @@ export const words = {
     },
     category: 'house'
   },
-  bee: {
+  {
     img: 'bee',
     mean: 'bee',
     jp: {
@@ -369,7 +369,7 @@ export const words = {
     },
     category: 'nature'
   },
-  beef: {
+  {
     img: 'beef',
     mean: 'beef',
     jp: {
@@ -379,7 +379,7 @@ export const words = {
     },
     category: 'nature'
   },
-  beer: {
+  {
     img: 'beer',
     mean: 'beer',
     jp: {
@@ -389,7 +389,7 @@ export const words = {
     },
     category: 'nature'
   },
-  bicycle: {
+  {
     img: 'bicycle',
     mean: 'bicycle',
     jp: {
@@ -399,7 +399,7 @@ export const words = {
     },
     category: 'transportation'
   },
-  birthday: {
+  {
     img: 'birthday',
     mean: 'birthday',
     jp: {
@@ -409,7 +409,7 @@ export const words = {
     },
     category: 'time'
   },
-  blanket: {
+  {
     img: 'blanket',
     mean: 'blanket',
     jp: {
@@ -419,7 +419,7 @@ export const words = {
     },
     category: 'house'
   },
-  blind: {
+  {
     img: 'blind',
     mean: 'blind',
     jp: {
@@ -429,7 +429,7 @@ export const words = {
     },
     category: 'house'
   },
-  blueberry: {
+  {
     img: 'blueberry',
     mean: 'blueberry',
     jp: {
@@ -439,7 +439,7 @@ export const words = {
     },
     category: 'nature'
   },
-  boat: {
+  {
     img: 'boat',
     mean: 'boat',
     jp: {
@@ -449,7 +449,7 @@ export const words = {
     },
     category: 'transportation'
   },
-  book: {
+  {
     img: 'book',
     mean: 'book',
     jp: {
@@ -459,7 +459,7 @@ export const words = {
     },
     category: 'education'
   },
-  bookcase: {
+  {
     img: 'bookcase',
     mean: 'bookcase',
     jp: {
@@ -469,7 +469,7 @@ export const words = {
     },
     category: 'house'
   },
-  bowl: {
+  {
     img: 'bowl',
     mean: 'bowl',
     jp: {
@@ -479,7 +479,7 @@ export const words = {
     },
     category: 'house'
   },
-  bowling: {
+  {
     img: 'bowling',
     mean: 'bowling',
     jp: {
@@ -489,7 +489,7 @@ export const words = {
     },
     category: 'fun'
   },
-  boxes: {
+  {
     img: 'boxes',
     mean: 'box',
     jp: {
@@ -499,7 +499,7 @@ export const words = {
     },
     category: 'house'
   },
-  bridge: {
+  {
     img: 'bridge',
     mean: 'bridge',
     jp: {
@@ -509,7 +509,7 @@ export const words = {
     },
     category: 'city'
   },
-  broccoli: {
+  {
     img: 'broccoli',
     mean: 'broccoli',
     jp: {
@@ -519,7 +519,7 @@ export const words = {
     },
     category: 'nature'
   },
-  building: {
+  {
     img: 'building',
     mean: 'building',
     jp: {
@@ -529,7 +529,7 @@ export const words = {
     },
     category: 'city'
   },
-  bus: {
+  {
     img: 'bus',
     mean: 'bus',
     jp: {
@@ -539,7 +539,7 @@ export const words = {
     },
     category: 'transportation'
   },
-  butter: {
+  {
     img: 'butter',
     mean: 'butter',
     jp: {
@@ -549,7 +549,7 @@ export const words = {
     },
     category: 'nature'
   },
-  butterfly: {
+  {
     img: 'butterfly',
     mean: 'butterfly',
     jp: {
@@ -559,7 +559,7 @@ export const words = {
     },
     category: 'nature'
   },
-  button: {
+  {
     img: 'button',
     mean: 'button',
     jp: {
@@ -569,7 +569,7 @@ export const words = {
     },
     category: 'things'
   },
-  cabbage: {
+  {
     img: 'cabbage',
     mean: 'cabbage',
     jp: {
@@ -579,7 +579,7 @@ export const words = {
     },
     category: 'nature'
   },
-  cactus: {
+  {
     img: 'cactus',
     mean: 'cactus',
     jp: {
@@ -589,7 +589,7 @@ export const words = {
     },
     category: 'nature'
   },
-  cake: {
+  {
     img: 'cake',
     mean: 'cake',
     jp: {
@@ -599,7 +599,7 @@ export const words = {
     },
     category: 'nature'
   },
-  calculator: {
+  {
     img: 'calculator',
     mean: 'calculator',
     jp: {
@@ -609,7 +609,7 @@ export const words = {
     },
     category: 'education'
   },
-  calendar: {
+  {
     img: 'calendar',
     mean: 'calendar',
     jp: {
@@ -619,7 +619,7 @@ export const words = {
     },
     category: 'time'
   },
-  camel: {
+  {
     img: 'camel',
     mean: 'camel',
     jp: {
@@ -629,7 +629,7 @@ export const words = {
     },
     category: 'nature'
   },
-  'camera-2': {
+  {
     img: 'camera',
     mean: 'camera',
     jp: {
@@ -639,7 +639,7 @@ export const words = {
     },
     category: 'fun'
   },
-  camera: {
+  {
     img: 'camera',
     mean: 'camera',
     jp: {
@@ -649,7 +649,7 @@ export const words = {
     },
     category: 'fun'
   },
-  camping: {
+  {
     img: 'camping',
     mean: 'camping',
     jp: {
@@ -659,7 +659,7 @@ export const words = {
     },
     category: 'fun'
   },
-  can: {
+  {
     img: 'can',
     mean: 'can',
     jp: {
@@ -669,7 +669,7 @@ export const words = {
     },
     category: 'nature'
   },
-  candle: {
+  {
     img: 'candle',
     mean: 'candle',
     jp: {
@@ -679,7 +679,7 @@ export const words = {
     },
     category: 'house'
   },
-  candy: {
+  {
     img: 'candy',
     mean: 'candy',
     jp: {
@@ -689,7 +689,7 @@ export const words = {
     },
     category: 'nature'
   },
-  car: {
+  {
     img: 'car',
     mean: 'car',
     jp: {
@@ -699,7 +699,7 @@ export const words = {
     },
     category: 'transportation'
   },
-  carpark: {
+  {
     img: 'carpark',
     mean: 'car park',
     jp: {
@@ -709,7 +709,7 @@ export const words = {
     },
     category: 'city'
   },
-  carrot: {
+  {
     img: 'carrot',
     mean: 'carrot',
     jp: {
@@ -719,7 +719,7 @@ export const words = {
     },
     category: 'nature'
   },
-  cat: {
+  {
     img: 'cat',
     mean: 'cat',
     jp: {
@@ -729,7 +729,7 @@ export const words = {
     },
     category: 'nature'
   },
-  caterpillar: {
+  {
     img: 'caterpillar',
     mean: 'caterpillar',
     jp: {
@@ -739,7 +739,7 @@ export const words = {
     },
     category: 'nature'
   },
-  cavity: {
+  {
     img: 'cavity',
     mean: 'cavity',
     jp: {
@@ -749,7 +749,7 @@ export const words = {
     },
     category: 'health'
   },
-  celery: {
+  {
     img: 'celery',
     mean: 'celery',
     jp: {
@@ -759,7 +759,7 @@ export const words = {
     },
     category: 'nature'
   },
-  chair: {
+  {
     img: 'chair',
     mean: 'chair',
     jp: {
@@ -769,7 +769,7 @@ export const words = {
     },
     category: 'house'
   },
-  cheers: {
+  {
     img: 'cheers',
     mean: 'cheers',
     jp: {
@@ -779,7 +779,7 @@ export const words = {
     },
     category: 'fun'
   },
-  cheese: {
+  {
     img: 'cheese',
     mean: 'cheese',
     jp: {
@@ -789,7 +789,7 @@ export const words = {
     },
     category: 'nature'
   },
-  chemistry: {
+  {
     img: 'chemistry',
     mean: 'chemistry',
     jp: {
@@ -799,7 +799,7 @@ export const words = {
     },
     category: 'education'
   },
-  cherry: {
+  {
     img: 'cherry',
     mean: 'cherry',
     jp: {
@@ -809,7 +809,7 @@ export const words = {
     },
     category: 'nature'
   },
-  cherryblossom: {
+  {
     img: 'cherryblossom',
     mean: 'cherry blossom',
     jp: {
@@ -819,7 +819,7 @@ export const words = {
     },
     category: 'nature'
   },
-  children: {
+  {
     img: 'children',
     mean: 'child/children',
     jp: {
@@ -829,7 +829,7 @@ export const words = {
     },
     category: 'people'
   },
-  chili: {
+  {
     img: 'chili',
     mean: 'chili',
     jp: {
@@ -839,7 +839,7 @@ export const words = {
     },
     category: 'nature'
   },
-  chopstick: {
+  {
     img: 'chopstick',
     mean: 'chopstick',
     jp: {
@@ -849,7 +849,7 @@ export const words = {
     },
     category: 'house'
   },
-  church: {
+  {
     img: 'church',
     mean: 'church',
     jp: {
@@ -859,7 +859,7 @@ export const words = {
     },
     category: 'society'
   },
-  cigarette: {
+  {
     img: 'cigarette',
     mean: 'cigarette',
     jp: {
@@ -869,7 +869,7 @@ export const words = {
     },
     category: 'fun'
   },
-  clock: {
+  {
     img: 'clock',
     mean: 'clock',
     jp: {
@@ -879,7 +879,7 @@ export const words = {
     },
     category: 'house'
   },
-  clothes: {
+  {
     img: 'clothes',
     mean: 'clothes',
     jp: {
@@ -889,7 +889,7 @@ export const words = {
     },
     category: 'people'
   },
-  cloud: {
+  {
     img: 'cloud',
     mean: 'cloud',
     jp: {
@@ -899,7 +899,7 @@ export const words = {
     },
     category: 'nature'
   },
-  coat: {
+  {
     img: 'coat',
     mean: 'coat',
     jp: {
@@ -909,7 +909,7 @@ export const words = {
     },
     category: 'people'
   },
-  cockroach: {
+  {
     img: 'cockroach',
     mean: 'cockroach',
     jp: {
@@ -919,7 +919,7 @@ export const words = {
     },
     category: 'house'
   },
-  cocktail: {
+  {
     img: 'cocktail',
     mean: 'cocktail',
     jp: {
@@ -929,7 +929,7 @@ export const words = {
     },
     category: 'nature'
   },
-  coconut: {
+  {
     img: 'coconut',
     mean: 'coconut',
     jp: {
@@ -939,7 +939,7 @@ export const words = {
     },
     category: 'nature'
   },
-  cocoon: {
+  {
     img: 'cocoon',
     mean: 'cocoon',
     jp: {
@@ -949,7 +949,7 @@ export const words = {
     },
     category: 'nature'
   },
-  coffee: {
+  {
     img: 'coffee',
     mean: 'coffee',
     jp: {
@@ -959,7 +959,7 @@ export const words = {
     },
     category: 'nature'
   },
-  colour: {
+  {
     img: 'colour',
     mean: 'color',
     jp: {
@@ -969,7 +969,7 @@ export const words = {
     },
     category: 'things'
   },
-  comb: {
+  {
     img: 'comb',
     mean: 'comb',
     jp: {
@@ -979,7 +979,7 @@ export const words = {
     },
     category: 'house'
   },
-  comic: {
+  {
     img: 'comic',
     mean: 'comic',
     jp: {
@@ -989,7 +989,7 @@ export const words = {
     },
     category: 'fun'
   },
-  compass: {
+  {
     img: 'compass',
     mean: 'compass',
     jp: {
@@ -999,7 +999,7 @@ export const words = {
     },
     category: 'house'
   },
-  corn: {
+  {
     img: 'corn',
     mean: 'corn',
     jp: {
@@ -1009,7 +1009,7 @@ export const words = {
     },
     category: 'nature'
   },
-  cosmetics: {
+  {
     img: 'cosmetics',
     mean: 'cosmetics',
     jp: {
@@ -1019,7 +1019,7 @@ export const words = {
     },
     category: 'people'
   },
-  cottencandy: {
+  {
     img: 'cottencandy',
     mean: 'cotten candy',
     jp: {
@@ -1029,7 +1029,7 @@ export const words = {
     },
     category: 'nature'
   },
-  cottonswab: {
+  {
     img: 'cottonswab',
     mean: 'cotton swab',
     jp: {
@@ -1039,7 +1039,7 @@ export const words = {
     },
     category: 'house'
   },
-  cow: {
+  {
     img: 'cow',
     mean: 'cow',
     jp: {
@@ -1049,7 +1049,7 @@ export const words = {
     },
     category: 'nature'
   },
-  crab: {
+  {
     img: 'crab',
     mean: 'crab',
     jp: {
@@ -1059,7 +1059,7 @@ export const words = {
     },
     category: 'nature'
   },
-  cube: {
+  {
     img: 'cube',
     mean: 'cube',
     jp: {
@@ -1069,7 +1069,7 @@ export const words = {
     },
     category: 'fun'
   },
-  cucumber: {
+  {
     img: 'cucumber',
     mean: 'cucumber',
     jp: {
@@ -1079,7 +1079,7 @@ export const words = {
     },
     category: 'nature'
   },
-  curtain: {
+  {
     img: 'curtain',
     mean: 'curtain',
     jp: {
@@ -1089,7 +1089,7 @@ export const words = {
     },
     category: 'house'
   },
-  dairy: {
+  {
     img: 'dairy',
     mean: 'dairy products',
     jp: {
@@ -1099,7 +1099,7 @@ export const words = {
     },
     category: 'nature'
   },
-  daisy: {
+  {
     img: 'daisy',
     mean: 'daisy',
     jp: {
@@ -1109,7 +1109,7 @@ export const words = {
     },
     category: 'nature'
   },
-  dandelion: {
+  {
     img: 'dandelion',
     mean: 'dandelion',
     jp: {
@@ -1119,7 +1119,7 @@ export const words = {
     },
     category: 'nature'
   },
-  december: {
+  {
     img: 'december',
     mean: 'december',
     jp: {
@@ -1129,7 +1129,7 @@ export const words = {
     },
     category: 'time'
   },
-  deer: {
+  {
     img: 'deer',
     mean: 'deer',
     jp: {
@@ -1139,7 +1139,7 @@ export const words = {
     },
     category: 'nature'
   },
-  dentalclinic: {
+  {
     img: 'dentalclinic',
     mean: 'dental clinic',
     jp: {
@@ -1149,7 +1149,7 @@ export const words = {
     },
     category: 'city'
   },
-  dentist: {
+  {
     img: 'dentist',
     mean: 'dentist',
     jp: {
@@ -1159,7 +1159,7 @@ export const words = {
     },
     category: 'people'
   },
-  desktop: {
+  {
     img: 'desktop',
     mean: 'desktop',
     jp: {
@@ -1169,7 +1169,7 @@ export const words = {
     },
     category: 'things'
   },
-  detective: {
+  {
     img: 'detective',
     mean: 'detective',
     jp: {
@@ -1179,7 +1179,7 @@ export const words = {
     },
     category: 'people'
   },
-  detergent: {
+  {
     img: 'detergent',
     mean: 'laundry detergent',
     jp: {
@@ -1189,7 +1189,7 @@ export const words = {
     },
     category: 'house'
   },
-  dice: {
+  {
     img: 'dice',
     mean: 'dice',
     jp: {
@@ -1199,7 +1199,7 @@ export const words = {
     },
     category: 'fun'
   },
-  dictionary: {
+  {
     img: 'dictionary',
     mean: 'dictionary',
     jp: {
@@ -1209,7 +1209,7 @@ export const words = {
     },
     category: 'education'
   },
-  doctor: {
+  {
     img: 'doctor',
     mean: 'doctor',
     jp: {
@@ -1219,7 +1219,7 @@ export const words = {
     },
     category: 'people'
   },
-  dog: {
+  {
     img: 'dog',
     mean: 'dog',
     jp: {
@@ -1229,7 +1229,7 @@ export const words = {
     },
     category: 'nature'
   },
-  dolphin: {
+  {
     img: 'dolphin',
     mean: 'dolphin',
     jp: {
@@ -1239,7 +1239,7 @@ export const words = {
     },
     category: 'nature'
   },
-  donkey: {
+  {
     img: 'donkey',
     mean: 'donkey',
     jp: {
@@ -1249,7 +1249,7 @@ export const words = {
     },
     category: 'nature'
   },
-  door: {
+  {
     img: 'door',
     mean: 'door',
     jp: {
@@ -1259,7 +1259,7 @@ export const words = {
     },
     category: 'house'
   },
-  doorway: {
+  {
     img: 'doorway',
     mean: 'doorway',
     jp: {
@@ -1269,7 +1269,7 @@ export const words = {
     },
     category: 'house'
   },
-  doughnut: {
+  {
     img: 'doughnut',
     mean: 'doughnut',
     jp: {
@@ -1279,7 +1279,7 @@ export const words = {
     },
     category: 'nature'
   },
-  dragonfly: {
+  {
     img: 'dragonfly',
     mean: 'dragonfly',
     jp: {
@@ -1289,7 +1289,7 @@ export const words = {
     },
     category: 'nature'
   },
-  drum: {
+  {
     img: 'drum',
     mean: 'drum',
     jp: {
@@ -1299,7 +1299,7 @@ export const words = {
     },
     category: 'fun'
   },
-  duck: {
+  {
     img: 'duck',
     mean: 'wild duck',
     jp: {
@@ -1309,7 +1309,7 @@ export const words = {
     },
     category: 'nature'
   },
-  dumpling: {
+  {
     img: 'dumpling',
     mean: 'dumpling',
     jp: {
@@ -1319,7 +1319,7 @@ export const words = {
     },
     category: 'nature'
   },
-  eagle: {
+  {
     img: 'eagle',
     mean: 'eagle',
     jp: {
@@ -1329,7 +1329,7 @@ export const words = {
     },
     category: 'nature'
   },
-  ear: {
+  {
     img: 'ear',
     mean: 'ear',
     jp: {
@@ -1339,7 +1339,7 @@ export const words = {
     },
     category: 'people'
   },
-  earings: {
+  {
     img: 'earings',
     mean: 'earings',
     jp: {
@@ -1349,7 +1349,7 @@ export const words = {
     },
     category: 'people'
   },
-  earphone: {
+  {
     img: 'earphone',
     mean: 'ear phone',
     jp: {
@@ -1359,7 +1359,7 @@ export const words = {
     },
     category: 'fun'
   },
-  earth: {
+  {
     img: 'earth',
     mean: 'earth',
     jp: {
@@ -1369,7 +1369,7 @@ export const words = {
     },
     category: 'nature'
   },
-  egg: {
+  {
     img: 'egg',
     mean: 'egg',
     jp: {
@@ -1379,7 +1379,7 @@ export const words = {
     },
     category: 'nature'
   },
-  eggplant: {
+  {
     img: 'eggplant',
     mean: 'eggplant',
     jp: {
@@ -1389,7 +1389,7 @@ export const words = {
     },
     category: 'nature'
   },
-  electricfan: {
+  {
     img: 'electricfan',
     mean: 'electric fan',
     jp: {
@@ -1399,7 +1399,7 @@ export const words = {
     },
     category: 'house'
   },
-  elephant: {
+  {
     img: 'elephant',
     mean: 'elephant',
     jp: {
@@ -1409,7 +1409,7 @@ export const words = {
     },
     category: 'nature'
   },
-  envelope: {
+  {
     img: 'envelope',
     mean: 'envelope',
     jp: {
@@ -1419,7 +1419,7 @@ export const words = {
     },
     category: 'things'
   },
-  eraser: {
+  {
     img: 'eraser',
     mean: 'eraser',
     jp: {
@@ -1429,7 +1429,7 @@ export const words = {
     },
     category: 'education'
   },
-  exit: {
+  {
     img: 'exit',
     mean: 'exit',
     jp: {
@@ -1439,7 +1439,7 @@ export const words = {
     },
     category: 'house'
   },
-  eye: {
+  {
     img: 'eye',
     mean: 'eye',
     jp: {
@@ -1449,7 +1449,7 @@ export const words = {
     },
     category: 'people'
   },
-  eyebrow: {
+  {
     img: 'eyebrow',
     mean: 'eyebrow',
     jp: {
@@ -1459,7 +1459,7 @@ export const words = {
     },
     category: 'people'
   },
-  eyelash: {
+  {
     img: 'eyelash',
     mean: 'eyelashes',
     jp: {
@@ -1469,7 +1469,7 @@ export const words = {
     },
     category: 'people'
   },
-  factory: {
+  {
     img: 'factory',
     mean: 'factory',
     jp: {
@@ -1479,7 +1479,7 @@ export const words = {
     },
     category: 'city'
   },
-  family: {
+  {
     img: 'family',
     mean: 'family',
     jp: {
@@ -1489,7 +1489,7 @@ export const words = {
     },
     category: 'people'
   },
-  feather: {
+  {
     img: 'feather',
     mean: 'feather',
     jp: {
@@ -1499,7 +1499,7 @@ export const words = {
     },
     category: 'nature'
   },
-  february: {
+  {
     img: 'february',
     mean: 'february',
     jp: {
@@ -1509,7 +1509,7 @@ export const words = {
     },
     category: 'time'
   },
-  fence: {
+  {
     img: 'fence',
     mean: 'fence',
     jp: {
@@ -1519,7 +1519,7 @@ export const words = {
     },
     category: 'house'
   },
-  feverthermometer: {
+  {
     img: 'feverthermometer',
     mean: 'fever thermometer',
     jp: {
@@ -1529,7 +1529,7 @@ export const words = {
     },
     category: 'health'
   },
-  film: {
+  {
     img: 'film',
     mean: 'film',
     jp: {
@@ -1539,7 +1539,7 @@ export const words = {
     },
     category: 'fun'
   },
-  fingerprint: {
+  {
     img: 'fingerprint',
     mean: 'fingerprint',
     jp: {
@@ -1549,7 +1549,7 @@ export const words = {
     },
     category: 'people'
   },
-  fire: {
+  {
     img: 'fire',
     mean: 'fire',
     jp: {
@@ -1559,7 +1559,7 @@ export const words = {
     },
     category: 'nature'
   },
-  firefighter: {
+  {
     img: 'firefighter',
     mean: 'firefighter',
     jp: {
@@ -1569,7 +1569,7 @@ export const words = {
     },
     category: 'people'
   },
-  firefly: {
+  {
     img: 'firefly',
     mean: 'firefly',
     jp: {
@@ -1579,7 +1579,7 @@ export const words = {
     },
     category: 'nature'
   },
-  fireworks: {
+  {
     img: 'fireworks',
     mean: 'fireworks',
     jp: {
@@ -1589,7 +1589,7 @@ export const words = {
     },
     category: 'fun'
   },
-  fish: {
+  {
     img: 'fish',
     mean: 'fish',
     jp: {
@@ -1599,7 +1599,7 @@ export const words = {
     },
     category: 'nature'
   },
-  fishfood: {
+  {
     img: 'fishfood',
     mean: 'fish(for food)',
     jp: {
@@ -1609,7 +1609,7 @@ export const words = {
     },
     category: 'nature'
   },
-  flashlight: {
+  {
     img: 'flashlight',
     mean: 'flashlight',
     jp: {
@@ -1619,7 +1619,7 @@ export const words = {
     },
     category: 'house'
   },
-  floor: {
+  {
     img: 'floor',
     mean: 'floor',
     jp: {
@@ -1629,7 +1629,7 @@ export const words = {
     },
     category: 'house'
   },
-  floss: {
+  {
     img: 'floss',
     mean: 'floss',
     jp: {
@@ -1639,7 +1639,7 @@ export const words = {
     },
     category: 'house'
   },
-  flour: {
+  {
     img: 'flour',
     mean: 'flour',
     jp: {
@@ -1649,7 +1649,7 @@ export const words = {
     },
     category: 'nature'
   },
-  flower: {
+  {
     img: 'flower',
     mean: 'flower',
     jp: {
@@ -1659,7 +1659,7 @@ export const words = {
     },
     category: 'nature'
   },
-  flowerorchid: {
+  {
     img: 'flowerorchid',
     mean: 'orchid',
     jp: {
@@ -1669,7 +1669,7 @@ export const words = {
     },
     category: 'nature'
   },
-  fly: {
+  {
     img: 'fly',
     mean: 'fly',
     jp: {
@@ -1679,7 +1679,7 @@ export const words = {
     },
     category: 'nature'
   },
-  food: {
+  {
     img: 'food',
     mean: 'food',
     jp: {
@@ -1689,7 +1689,7 @@ export const words = {
     },
     category: 'nature'
   },
-  foodchocolate: {
+  {
     img: 'foodchocolate',
     mean: 'chocolate',
     jp: {
@@ -1699,7 +1699,7 @@ export const words = {
     },
     category: 'nature'
   },
-  foodorange: {
+  {
     img: 'foodorange',
     mean: 'orange',
     jp: {
@@ -1709,7 +1709,7 @@ export const words = {
     },
     category: 'nature'
   },
-  foodsalmon: {
+  {
     img: 'foodsalmon',
     mean: 'salmon',
     jp: {
@@ -1719,7 +1719,7 @@ export const words = {
     },
     category: 'nature'
   },
-  foodtomato: {
+  {
     img: 'foodtomato',
     mean: 'tomato',
     jp: {
@@ -1729,7 +1729,7 @@ export const words = {
     },
     category: 'nature'
   },
-  foot: {
+  {
     img: 'foot',
     mean: 'foot',
     jp: {
@@ -1739,7 +1739,7 @@ export const words = {
     },
     category: 'people'
   },
-  footprints: {
+  {
     img: 'footprints',
     mean: 'footprints',
     jp: {
@@ -1749,7 +1749,7 @@ export const words = {
     },
     category: 'people'
   },
-  forest: {
+  {
     img: 'forest',
     mean: 'forest',
     jp: {
@@ -1759,7 +1759,7 @@ export const words = {
     },
     category: 'nature'
   },
-  fox: {
+  {
     img: 'fox',
     mean: 'fox',
     jp: {
@@ -1769,7 +1769,7 @@ export const words = {
     },
     category: 'nature'
   },
-  frenchfries: {
+  {
     img: 'frenchfries',
     mean: 'french fries',
     jp: {
@@ -1779,7 +1779,7 @@ export const words = {
     },
     category: 'nature'
   },
-  friday: {
+  {
     img: 'friday',
     mean: 'friday',
     jp: {
@@ -1789,7 +1789,7 @@ export const words = {
     },
     category: 'time'
   },
-  frog: {
+  {
     img: 'frog',
     mean: 'frog',
     jp: {
@@ -1799,7 +1799,7 @@ export const words = {
     },
     category: 'nature'
   },
-  fruit: {
+  {
     img: 'fruit',
     mean: 'fruit',
     jp: {
@@ -1809,7 +1809,7 @@ export const words = {
     },
     category: 'nature'
   },
-  garlic: {
+  {
     img: 'garlic',
     mean: 'garlic',
     jp: {
@@ -1819,7 +1819,7 @@ export const words = {
     },
     category: 'nature'
   },
-  gasstation: {
+  {
     img: 'gasstation',
     mean: 'gas station',
     jp: {
@@ -1829,7 +1829,7 @@ export const words = {
     },
     category: 'city'
   },
-  ginger: {
+  {
     img: 'ginger',
     mean: 'ginger',
     jp: {
@@ -1839,7 +1839,7 @@ export const words = {
     },
     category: 'nature'
   },
-  gingko: {
+  {
     img: 'gingko',
     mean: 'gingko',
     jp: {
@@ -1849,7 +1849,7 @@ export const words = {
     },
     category: 'nature'
   },
-  ginseng: {
+  {
     img: 'ginseng',
     mean: 'ginseng',
     jp: {
@@ -1859,7 +1859,7 @@ export const words = {
     },
     category: 'nature'
   },
-  giraffe: {
+  {
     img: 'giraffe',
     mean: 'giraffe',
     jp: {
@@ -1869,7 +1869,7 @@ export const words = {
     },
     category: 'nature'
   },
-  glass: {
+  {
     img: 'glass',
     mean: 'glass',
     jp: {
@@ -1879,7 +1879,7 @@ export const words = {
     },
     category: 'house'
   },
-  glasses: {
+  {
     img: 'glasses',
     mean: 'glasses',
     jp: {
@@ -1889,7 +1889,7 @@ export const words = {
     },
     category: 'people'
   },
-  gloves: {
+  {
     img: 'gloves',
     mean: 'gloves',
     jp: {
@@ -1899,7 +1899,7 @@ export const words = {
     },
     category: 'people'
   },
-  glue: {
+  {
     img: 'glue',
     mean: 'glue',
     jp: {
@@ -1909,7 +1909,7 @@ export const words = {
     },
     category: 'education'
   },
-  goat: {
+  {
     img: 'goat',
     mean: 'goat',
     jp: {
@@ -1919,7 +1919,7 @@ export const words = {
     },
     category: 'nature'
   },
-  golf: {
+  {
     img: 'golf',
     mean: 'golf',
     jp: {
@@ -1929,7 +1929,7 @@ export const words = {
     },
     category: 'fun'
   },
-  goose: {
+  {
     img: 'goose',
     mean: 'goose',
     jp: {
@@ -1939,7 +1939,7 @@ export const words = {
     },
     category: 'nature'
   },
-  grape: {
+  {
     img: 'grape',
     mean: 'grape',
     jp: {
@@ -1949,7 +1949,7 @@ export const words = {
     },
     category: 'nature'
   },
-  grass: {
+  {
     img: 'grass',
     mean: 'grass',
     jp: {
@@ -1959,7 +1959,7 @@ export const words = {
     },
     category: 'nature'
   },
-  greenonion: {
+  {
     img: 'greenonion',
     mean: 'green onion',
     jp: {
@@ -1969,7 +1969,7 @@ export const words = {
     },
     category: 'nature'
   },
-  greenpepper: {
+  {
     img: 'greenpepper',
     mean: 'green pepper',
     jp: {
@@ -1979,7 +1979,7 @@ export const words = {
     },
     category: 'nature'
   },
-  greentea: {
+  {
     img: 'greentea',
     mean: 'green tea',
     jp: {
@@ -1989,7 +1989,7 @@ export const words = {
     },
     category: 'nature'
   },
-  guitar: {
+  {
     img: 'guitar',
     mean: 'guitar',
     jp: {
@@ -1999,7 +1999,7 @@ export const words = {
     },
     category: 'fun'
   },
-  hair: {
+  {
     img: 'hair',
     mean: 'hair',
     jp: {
@@ -2009,7 +2009,7 @@ export const words = {
     },
     category: 'people'
   },
-  hamburger: {
+  {
     img: 'hamburger',
     mean: 'hamburger',
     jp: {
@@ -2019,7 +2019,7 @@ export const words = {
     },
     category: 'nature'
   },
-  hammer: {
+  {
     img: 'hammer',
     mean: 'hammer',
     jp: {
@@ -2029,7 +2029,7 @@ export const words = {
     },
     category: 'house'
   },
-  hamster: {
+  {
     img: 'hamster',
     mean: 'hamster',
     jp: {
@@ -2039,7 +2039,7 @@ export const words = {
     },
     category: 'nature'
   },
-  hand: {
+  {
     img: 'hand',
     mean: 'hand',
     jp: {
@@ -2049,7 +2049,7 @@ export const words = {
     },
     category: 'people'
   },
-  handkerchief: {
+  {
     img: 'handkerchief',
     mean: 'handkerchief',
     jp: {
@@ -2059,7 +2059,7 @@ export const words = {
     },
     category: 'people'
   },
-  hanger: {
+  {
     img: 'hanger',
     mean: 'hanger',
     jp: {
@@ -2069,7 +2069,7 @@ export const words = {
     },
     category: 'house'
   },
-  hat: {
+  {
     img: 'hat',
     mean: 'hat',
     jp: {
@@ -2079,7 +2079,7 @@ export const words = {
     },
     category: 'people'
   },
-  headphone: {
+  {
     img: 'headphone',
     mean: 'head phone',
     jp: {
@@ -2089,7 +2089,7 @@ export const words = {
     },
     category: 'fun'
   },
-  hedgehog: {
+  {
     img: 'hedgehog',
     mean: 'hedgehog',
     jp: {
@@ -2099,7 +2099,7 @@ export const words = {
     },
     category: 'nature'
   },
-  hippo: {
+  {
     img: 'hippo',
     mean: 'hippo',
     jp: {
@@ -2109,7 +2109,7 @@ export const words = {
     },
     category: 'nature'
   },
-  history: {
+  {
     img: 'history',
     mean: 'history',
     jp: {
@@ -2119,7 +2119,7 @@ export const words = {
     },
     category: 'education'
   },
-  honey: {
+  {
     img: 'honey',
     mean: 'honey',
     jp: {
@@ -2129,7 +2129,7 @@ export const words = {
     },
     category: 'nature'
   },
-  horse: {
+  {
     img: 'horse',
     mean: 'horse',
     jp: {
@@ -2139,7 +2139,7 @@ export const words = {
     },
     category: 'nature'
   },
-  hospital: {
+  {
     img: 'hospital',
     mean: 'hospital',
     jp: {
@@ -2149,7 +2149,7 @@ export const words = {
     },
     category: 'city'
   },
-  hospitaldrip: {
+  {
     img: 'hospitaldrip',
     mean: 'hospital drip',
     jp: {
@@ -2159,7 +2159,7 @@ export const words = {
     },
     category: 'health'
   },
-  hotdog: {
+  {
     img: 'hotdog',
     mean: 'hotdog',
     jp: {
@@ -2169,7 +2169,7 @@ export const words = {
     },
     category: 'nature'
   },
-  hotel: {
+  {
     img: 'hotel',
     mean: 'hotel',
     jp: {
@@ -2179,7 +2179,7 @@ export const words = {
     },
     category: 'city'
   },
-  hotspring: {
+  {
     img: 'hotspring',
     mean: 'hotspring',
     jp: {
@@ -2189,7 +2189,7 @@ export const words = {
     },
     category: 'fun'
   },
-  ice: {
+  {
     img: 'ice',
     mean: 'ice',
     jp: {
@@ -2199,7 +2199,7 @@ export const words = {
     },
     category: 'nature'
   },
-  icecream: {
+  {
     img: 'icecream',
     mean: 'ice cream',
     jp: {
@@ -2209,7 +2209,7 @@ export const words = {
     },
     category: 'nature'
   },
-  island: {
+  {
     img: 'island',
     mean: 'island',
     jp: {
@@ -2219,7 +2219,7 @@ export const words = {
     },
     category: 'nature'
   },
-  january: {
+  {
     img: 'january',
     mean: 'january',
     jp: {
@@ -2229,7 +2229,7 @@ export const words = {
     },
     category: 'time'
   },
-  jeans: {
+  {
     img: 'jeans',
     mean: 'jeans',
     jp: {
@@ -2239,7 +2239,7 @@ export const words = {
     },
     category: 'people'
   },
-  jellyfish: {
+  {
     img: 'jellyfish',
     mean: 'jelly fish',
     jp: {
@@ -2249,7 +2249,7 @@ export const words = {
     },
     category: 'nature'
   },
-  judo: {
+  {
     img: 'judo',
     mean: 'judo',
     jp: {
@@ -2259,7 +2259,7 @@ export const words = {
     },
     category: 'fun'
   },
-  juice: {
+  {
     img: 'juice',
     mean: 'juice',
     jp: {
@@ -2269,7 +2269,7 @@ export const words = {
     },
     category: 'nature'
   },
-  juicer: {
+  {
     img: 'juicer',
     mean: 'juicer',
     jp: {
@@ -2279,7 +2279,7 @@ export const words = {
     },
     category: 'house'
   },
-  july: {
+  {
     img: 'july',
     mean: 'july',
     jp: {
@@ -2289,7 +2289,7 @@ export const words = {
     },
     category: 'time'
   },
-  june: {
+  {
     img: 'june',
     mean: 'june',
     jp: {
@@ -2299,7 +2299,7 @@ export const words = {
     },
     category: 'time'
   },
-  kayak: {
+  {
     img: 'kayak',
     mean: 'kayak',
     jp: {
@@ -2309,7 +2309,7 @@ export const words = {
     },
     category: 'fun'
   },
-  kendo: {
+  {
     img: 'kendo',
     mean: 'kendo',
     jp: {
@@ -2319,7 +2319,7 @@ export const words = {
     },
     category: 'fun'
   },
-  kettle: {
+  {
     img: 'kettle',
     mean: 'kettle',
     jp: {
@@ -2329,7 +2329,7 @@ export const words = {
     },
     category: 'house'
   },
-  key: {
+  {
     img: 'key',
     mean: 'key',
     jp: {
@@ -2339,7 +2339,7 @@ export const words = {
     },
     category: 'house'
   },
-  kitchen: {
+  {
     img: 'kitchen',
     mean: 'kitchen',
     jp: {
@@ -2349,7 +2349,7 @@ export const words = {
     },
     category: 'house'
   },
-  kite: {
+  {
     img: 'kite',
     mean: 'kite',
     jp: {
@@ -2359,7 +2359,7 @@ export const words = {
     },
     category: 'fun'
   },
-  kiwi: {
+  {
     img: 'kiwi',
     mean: 'kiwi',
     jp: {
@@ -2369,7 +2369,7 @@ export const words = {
     },
     category: 'nature'
   },
-  ladle: {
+  {
     img: 'ladle',
     mean: 'ladle',
     jp: {
@@ -2379,7 +2379,7 @@ export const words = {
     },
     category: 'house'
   },
-  ladybug: {
+  {
     img: 'ladybug',
     mean: 'ladybug',
     jp: {
@@ -2389,7 +2389,7 @@ export const words = {
     },
     category: 'nature'
   },
-  laptop: {
+  {
     img: 'laptop',
     mean: 'laptop',
     jp: {
@@ -2399,7 +2399,7 @@ export const words = {
     },
     category: 'things'
   },
-  leaf: {
+  {
     img: 'leaf',
     mean: 'leaf',
     jp: {
@@ -2409,7 +2409,7 @@ export const words = {
     },
     category: 'nature'
   },
-  lemon: {
+  {
     img: 'lemon',
     mean: 'lemon',
     jp: {
@@ -2419,7 +2419,7 @@ export const words = {
     },
     category: 'nature'
   },
-  lettuce: {
+  {
     img: 'lettuce',
     mean: 'lettuce',
     jp: {
@@ -2429,7 +2429,7 @@ export const words = {
     },
     category: 'nature'
   },
-  lighthouse: {
+  {
     img: 'lighthouse',
     mean: 'lighthouse',
     jp: {
@@ -2439,7 +2439,7 @@ export const words = {
     },
     category: 'city'
   },
-  lily: {
+  {
     img: 'lily',
     mean: 'lily',
     jp: {
@@ -2449,7 +2449,7 @@ export const words = {
     },
     category: 'nature'
   },
-  lion: {
+  {
     img: 'lion',
     mean: 'lion',
     jp: {
@@ -2459,7 +2459,7 @@ export const words = {
     },
     category: 'nature'
   },
-  lips: {
+  {
     img: 'lips',
     mean: 'lips',
     jp: {
@@ -2469,7 +2469,7 @@ export const words = {
     },
     category: 'people'
   },
-  livingroom: {
+  {
     img: 'livingroom',
     mean: 'living room',
     jp: {
@@ -2479,7 +2479,7 @@ export const words = {
     },
     category: 'house'
   },
-  lizard: {
+  {
     img: 'lizard',
     mean: 'lizard',
     jp: {
@@ -2489,7 +2489,7 @@ export const words = {
     },
     category: 'nature'
   },
-  lobster: {
+  {
     img: 'lobster',
     mean: 'lobster',
     jp: {
@@ -2499,7 +2499,7 @@ export const words = {
     },
     category: 'nature'
   },
-  lollipop: {
+  {
     img: 'lollipop',
     mean: 'lollipop',
     jp: {
@@ -2509,7 +2509,7 @@ export const words = {
     },
     category: 'nature'
   },
-  lotus: {
+  {
     img: 'lotus',
     mean: 'lotus',
     jp: {
@@ -2519,7 +2519,7 @@ export const words = {
     },
     category: 'nature'
   },
-  luggage: {
+  {
     img: 'luggage',
     mean: 'luggage',
     jp: {
@@ -2529,7 +2529,7 @@ export const words = {
     },
     category: 'house'
   },
-  magnifyingglass: {
+  {
     img: 'magnifyingglass',
     mean: 'magnifying glass',
     jp: {
@@ -2539,7 +2539,7 @@ export const words = {
     },
     category: 'house'
   },
-  mango: {
+  {
     img: 'mango',
     mean: 'mango',
     jp: {
@@ -2549,7 +2549,7 @@ export const words = {
     },
     category: 'nature'
   },
-  map: {
+  {
     img: 'map',
     mean: 'map',
     jp: {
@@ -2559,7 +2559,7 @@ export const words = {
     },
     category: 'things'
   },
-  march: {
+  {
     img: 'march',
     mean: 'march',
     jp: {
@@ -2569,7 +2569,7 @@ export const words = {
     },
     category: 'time'
   },
-  matchstick: {
+  {
     img: 'matchstick',
     mean: 'matchstick',
     jp: {
@@ -2579,7 +2579,7 @@ export const words = {
     },
     category: 'house'
   },
-  mathematics: {
+  {
     img: 'mathematics',
     mean: 'mathematics',
     jp: {
@@ -2589,7 +2589,7 @@ export const words = {
     },
     category: 'education'
   },
-  may: {
+  {
     img: 'may',
     mean: 'may',
     jp: {
@@ -2599,7 +2599,7 @@ export const words = {
     },
     category: 'time'
   },
-  medicine: {
+  {
     img: 'medicine',
     mean: 'medicine',
     jp: {
@@ -2609,7 +2609,7 @@ export const words = {
     },
     category: 'health'
   },
-  meditation: {
+  {
     img: 'meditation',
     mean: 'meditation',
     jp: {
@@ -2619,7 +2619,7 @@ export const words = {
     },
     category: 'fun'
   },
-  microscope: {
+  {
     img: 'microscope',
     mean: 'microscope',
     jp: {
@@ -2629,7 +2629,7 @@ export const words = {
     },
     category: 'education'
   },
-  microwave: {
+  {
     img: 'microwave',
     mean: 'microwave',
     jp: {
@@ -2639,7 +2639,7 @@ export const words = {
     },
     category: 'house'
   },
-  milk: {
+  {
     img: 'milk',
     mean: 'milk',
     jp: {
@@ -2649,7 +2649,7 @@ export const words = {
     },
     category: 'nature'
   },
-  mirror: {
+  {
     img: 'mirror',
     mean: 'mirror',
     jp: {
@@ -2659,7 +2659,7 @@ export const words = {
     },
     category: 'house'
   },
-  mobilephone: {
+  {
     img: 'mobilephone',
     mean: 'mobile phone',
     jp: {
@@ -2669,7 +2669,7 @@ export const words = {
     },
     category: 'things'
   },
-  monday: {
+  {
     img: 'monday',
     mean: 'monday',
     jp: {
@@ -2679,7 +2679,7 @@ export const words = {
     },
     category: 'time'
   },
-  money: {
+  {
     img: 'money',
     mean: 'money',
     jp: {
@@ -2689,7 +2689,7 @@ export const words = {
     },
     category: 'society'
   },
-  moon: {
+  {
     img: 'moon',
     mean: 'moon',
     jp: {
@@ -2699,7 +2699,7 @@ export const words = {
     },
     category: 'nature'
   },
-  mosquito: {
+  {
     img: 'mosquito',
     mean: 'mosquito',
     jp: {
@@ -2709,7 +2709,7 @@ export const words = {
     },
     category: 'nature'
   },
-  mountain: {
+  {
     img: 'mountain',
     mean: 'mountain',
     jp: {
@@ -2719,7 +2719,7 @@ export const words = {
     },
     category: 'nature'
   },
-  mouse: {
+  {
     img: 'mouse',
     mean: 'mouse',
     jp: {
@@ -2729,7 +2729,7 @@ export const words = {
     },
     category: 'nature'
   },
-  moustache: {
+  {
     img: 'moustache',
     mean: 'moustache',
     jp: {
@@ -2739,7 +2739,7 @@ export const words = {
     },
     category: 'people'
   },
-  mouth: {
+  {
     img: 'mouth',
     mean: 'mouth',
     jp: {
@@ -2749,7 +2749,7 @@ export const words = {
     },
     category: 'people'
   },
-  mouthwash: {
+  {
     img: 'mouthwash',
     mean: 'mouthwash',
     jp: {
@@ -2759,7 +2759,7 @@ export const words = {
     },
     category: 'health'
   },
-  movie: {
+  {
     img: 'movie',
     mean: 'movie',
     jp: {
@@ -2769,7 +2769,7 @@ export const words = {
     },
     category: 'fun'
   },
-  muffin: {
+  {
     img: 'muffin',
     mean: 'muffin',
     jp: {
@@ -2779,7 +2779,7 @@ export const words = {
     },
     category: 'nature'
   },
-  mug: {
+  {
     img: 'mug',
     mean: 'mug',
     jp: {
@@ -2789,7 +2789,7 @@ export const words = {
     },
     category: 'house'
   },
-  mushroom: {
+  {
     img: 'mushroom',
     mean: 'mushroom',
     jp: {
@@ -2799,7 +2799,7 @@ export const words = {
     },
     category: 'nature'
   },
-  music: {
+  {
     img: 'music',
     mean: 'music',
     jp: {
@@ -2809,7 +2809,7 @@ export const words = {
     },
     category: 'fun'
   },
-  nailclipper: {
+  {
     img: 'nailclipper',
     mean: 'nailclipper',
     jp: {
@@ -2819,7 +2819,7 @@ export const words = {
     },
     category: 'house'
   },
-  nailpolish: {
+  {
     img: 'nailpolish',
     mean: 'nailpolish',
     jp: {
@@ -2829,7 +2829,7 @@ export const words = {
     },
     category: 'house'
   },
-  necklace: {
+  {
     img: 'necklace',
     mean: 'necklace',
     jp: {
@@ -2839,7 +2839,7 @@ export const words = {
     },
     category: 'people'
   },
-  nest: {
+  {
     img: 'nest',
     mean: 'nest',
     jp: {
@@ -2849,7 +2849,7 @@ export const words = {
     },
     category: 'nature'
   },
-  newspaper: {
+  {
     img: 'newspaper',
     mean: 'newspaper',
     jp: {
@@ -2859,7 +2859,7 @@ export const words = {
     },
     category: 'house'
   },
-  nose: {
+  {
     img: 'nose',
     mean: 'nose',
     jp: {
@@ -2869,7 +2869,7 @@ export const words = {
     },
     category: 'people'
   },
-  november: {
+  {
     img: 'november',
     mean: 'november',
     jp: {
@@ -2879,7 +2879,7 @@ export const words = {
     },
     category: 'time'
   },
-  nurse: {
+  {
     img: 'nurse',
     mean: 'nurse',
     jp: {
@@ -2889,7 +2889,7 @@ export const words = {
     },
     category: 'people'
   },
-  occnavy: {
+  {
     img: 'occnavy',
     mean: 'navy',
     jp: {
@@ -2899,7 +2899,7 @@ export const words = {
     },
     category: 'people'
   },
-  october: {
+  {
     img: 'october',
     mean: 'october',
     jp: {
@@ -2909,7 +2909,7 @@ export const words = {
     },
     category: 'time'
   },
-  octopus: {
+  {
     img: 'octopus',
     mean: 'octopus',
     jp: {
@@ -2919,7 +2919,7 @@ export const words = {
     },
     category: 'nature'
   },
-  onion: {
+  {
     img: 'onion',
     mean: 'onion',
     jp: {
@@ -2929,7 +2929,7 @@ export const words = {
     },
     category: 'nature'
   },
-  orca: {
+  {
     img: 'orca',
     mean: 'killer whale',
     jp: {
@@ -2939,7 +2939,7 @@ export const words = {
     },
     category: 'nature'
   },
-  origami: {
+  {
     img: 'origami',
     mean: 'origami',
     jp: {
@@ -2949,7 +2949,7 @@ export const words = {
     },
     category: 'fun'
   },
-  otter: {
+  {
     img: 'otter',
     mean: 'otter',
     jp: {
@@ -2959,7 +2959,7 @@ export const words = {
     },
     category: 'nature'
   },
-  oven: {
+  {
     img: 'oven',
     mean: 'oven',
     jp: {
@@ -2969,7 +2969,7 @@ export const words = {
     },
     category: 'house'
   },
-  owl: {
+  {
     img: 'owl',
     mean: 'owl',
     jp: {
@@ -2979,7 +2979,7 @@ export const words = {
     },
     category: 'nature'
   },
-  oyster: {
+  {
     img: 'oyster',
     mean: 'oyster',
     jp: {
@@ -2989,7 +2989,7 @@ export const words = {
     },
     category: 'nature'
   },
-  paintbrush: {
+  {
     img: 'paintbrush',
     mean: 'paint brush',
     jp: {
@@ -2999,7 +2999,7 @@ export const words = {
     },
     category: 'fun'
   },
-  palmtree: {
+  {
     img: 'palmtree',
     mean: 'palm tree',
     jp: {
@@ -3009,7 +3009,7 @@ export const words = {
     },
     category: 'nature'
   },
-  panda: {
+  {
     img: 'panda',
     mean: 'panda',
     jp: {
@@ -3019,7 +3019,7 @@ export const words = {
     },
     category: 'nature'
   },
-  paper: {
+  {
     img: 'paper',
     mean: 'paper',
     jp: {
@@ -3029,7 +3029,7 @@ export const words = {
     },
     category: 'things'
   },
-  parrot: {
+  {
     img: 'parrot',
     mean: 'parrot',
     jp: {
@@ -3039,7 +3039,7 @@ export const words = {
     },
     category: 'nature'
   },
-  passport: {
+  {
     img: 'passport',
     mean: 'passport',
     jp: {
@@ -3049,7 +3049,7 @@ export const words = {
     },
     category: 'people'
   },
-  patient: {
+  {
     img: 'patient',
     mean: 'patient',
     jp: {
@@ -3059,7 +3059,7 @@ export const words = {
     },
     category: 'health'
   },
-  pea: {
+  {
     img: 'pea',
     mean: 'pea',
     jp: {
@@ -3069,7 +3069,7 @@ export const words = {
     },
     category: 'nature'
   },
-  peace: {
+  {
     img: 'peace',
     mean: 'peace',
     jp: {
@@ -3079,7 +3079,7 @@ export const words = {
     },
     category: 'society'
   },
-  peach: {
+  {
     img: 'peach',
     mean: 'peach',
     jp: {
@@ -3089,7 +3089,7 @@ export const words = {
     },
     category: 'nature'
   },
-  peanut: {
+  {
     img: 'peanut',
     mean: 'peanut',
     jp: {
@@ -3099,7 +3099,7 @@ export const words = {
     },
     category: 'nature'
   },
-  pear: {
+  {
     img: 'pear',
     mean: 'pear',
     jp: {
@@ -3109,7 +3109,7 @@ export const words = {
     },
     category: 'nature'
   },
-  pearl: {
+  {
     img: 'pearl',
     mean: 'pearl',
     jp: {
@@ -3119,7 +3119,7 @@ export const words = {
     },
     category: 'nature'
   },
-  pebble: {
+  {
     img: 'pebble',
     mean: 'pebble',
     jp: {
@@ -3129,7 +3129,7 @@ export const words = {
     },
     category: 'nature'
   },
-  pencil: {
+  {
     img: 'pencil',
     mean: 'pencil',
     jp: {
@@ -3139,7 +3139,7 @@ export const words = {
     },
     category: 'education'
   },
-  penguin: {
+  {
     img: 'penguin',
     mean: 'penguin',
     jp: {
@@ -3149,7 +3149,7 @@ export const words = {
     },
     category: 'nature'
   },
-  perfume: {
+  {
     img: 'perfume',
     mean: 'perfume',
     jp: {
@@ -3159,7 +3159,7 @@ export const words = {
     },
     category: 'house'
   },
-  pharmacy: {
+  {
     img: 'pharmacy',
     mean: 'pharmacy',
     jp: {
@@ -3169,7 +3169,7 @@ export const words = {
     },
     category: 'city'
   },
-  phonebooth: {
+  {
     img: 'phonebooth',
     mean: 'phone booth',
     jp: {
@@ -3179,7 +3179,7 @@ export const words = {
     },
     category: 'city'
   },
-  photograph: {
+  {
     img: 'photograph',
     mean: 'photograph',
     jp: {
@@ -3189,7 +3189,7 @@ export const words = {
     },
     category: 'fun'
   },
-  piano: {
+  {
     img: 'piano',
     mean: 'piano',
     jp: {
@@ -3199,7 +3199,7 @@ export const words = {
     },
     category: 'fun'
   },
-  pie: {
+  {
     img: 'pie',
     mean: 'pie',
     jp: {
@@ -3209,7 +3209,7 @@ export const words = {
     },
     category: 'nature'
   },
-  pig: {
+  {
     img: 'pig',
     mean: 'pig',
     jp: {
@@ -3219,7 +3219,7 @@ export const words = {
     },
     category: 'nature'
   },
-  pigeon: {
+  {
     img: 'pigeon',
     mean: 'pigeon',
     jp: {
@@ -3229,7 +3229,7 @@ export const words = {
     },
     category: 'nature'
   },
-  pillow: {
+  {
     img: 'pillow',
     mean: 'pillow',
     jp: {
@@ -3239,7 +3239,7 @@ export const words = {
     },
     category: 'house'
   },
-  pineapple: {
+  {
     img: 'pineapple',
     mean: 'pineapple',
     jp: {
@@ -3249,7 +3249,7 @@ export const words = {
     },
     category: 'nature'
   },
-  pinwheel: {
+  {
     img: 'pinwheel',
     mean: 'pinwheel',
     jp: {
@@ -3259,7 +3259,7 @@ export const words = {
     },
     category: 'fun'
   },
-  pizza: {
+  {
     img: 'pizza',
     mean: 'pizza',
     jp: {
@@ -3269,7 +3269,7 @@ export const words = {
     },
     category: 'nature'
   },
-  planet: {
+  {
     img: 'planet',
     mean: 'planet',
     jp: {
@@ -3279,7 +3279,7 @@ export const words = {
     },
     category: 'nature'
   },
-  plants: {
+  {
     img: 'plants',
     mean: 'plants',
     jp: {
@@ -3289,7 +3289,7 @@ export const words = {
     },
     category: 'nature'
   },
-  plate: {
+  {
     img: 'plate',
     mean: 'plate',
     jp: {
@@ -3299,7 +3299,7 @@ export const words = {
     },
     category: 'house'
   },
-  pocket: {
+  {
     img: 'pocket',
     mean: 'pocket',
     jp: {
@@ -3309,7 +3309,7 @@ export const words = {
     },
     category: 'house'
   },
-  polarbear: {
+  {
     img: 'polarbear',
     mean: 'polar bear',
     jp: {
@@ -3319,7 +3319,7 @@ export const words = {
     },
     category: 'nature'
   },
-  policeman: {
+  {
     img: 'policeman',
     mean: 'policeman',
     jp: {
@@ -3329,7 +3329,7 @@ export const words = {
     },
     category: 'people'
   },
-  policestation: {
+  {
     img: 'policestation',
     mean: 'police station',
     jp: {
@@ -3339,7 +3339,7 @@ export const words = {
     },
     category: 'city'
   },
-  pork: {
+  {
     img: 'pork',
     mean: 'pork meat',
     jp: {
@@ -3349,7 +3349,7 @@ export const words = {
     },
     category: 'nature'
   },
-  postcard: {
+  {
     img: 'postcard',
     mean: 'postcard',
     jp: {
@@ -3359,7 +3359,7 @@ export const words = {
     },
     category: 'fun'
   },
-  postoffice: {
+  {
     img: 'postoffice',
     mean: 'post office',
     jp: {
@@ -3369,7 +3369,7 @@ export const words = {
     },
     category: 'city'
   },
-  pot: {
+  {
     img: 'pot',
     mean: 'cooking pot',
     jp: {
@@ -3379,7 +3379,7 @@ export const words = {
     },
     category: 'house'
   },
-  potato: {
+  {
     img: 'potato',
     mean: 'potato',
     jp: {
@@ -3389,7 +3389,7 @@ export const words = {
     },
     category: 'nature'
   },
-  prescription: {
+  {
     img: 'prescription',
     mean: 'prescription',
     jp: {
@@ -3399,7 +3399,7 @@ export const words = {
     },
     category: 'health'
   },
-  pumpkin: {
+  {
     img: 'pumpkin',
     mean: 'pumpkin',
     jp: {
@@ -3409,7 +3409,7 @@ export const words = {
     },
     category: 'nature'
   },
-  quilt: {
+  {
     img: 'quilt',
     mean: 'quilt',
     jp: {
@@ -3419,7 +3419,7 @@ export const words = {
     },
     category: 'house'
   },
-  rabbit: {
+  {
     img: 'rabbit',
     mean: 'rabbit',
     jp: {
@@ -3429,7 +3429,7 @@ export const words = {
     },
     category: 'nature'
   },
-  radio: {
+  {
     img: 'radio',
     mean: 'radio',
     jp: {
@@ -3439,7 +3439,7 @@ export const words = {
     },
     category: 'house'
   },
-  rain: {
+  {
     img: 'rain',
     mean: 'rain',
     jp: {
@@ -3449,7 +3449,7 @@ export const words = {
     },
     category: 'nature'
   },
-  raincoat: {
+  {
     img: 'raincoat',
     mean: 'raincoat',
     jp: {
@@ -3459,7 +3459,7 @@ export const words = {
     },
     category: 'people'
   },
-  raspberry: {
+  {
     img: 'raspberry',
     mean: 'raspberry',
     jp: {
@@ -3469,7 +3469,7 @@ export const words = {
     },
     category: 'nature'
   },
-  razor: {
+  {
     img: 'razor',
     mean: 'razor',
     jp: {
@@ -3479,7 +3479,7 @@ export const words = {
     },
     category: 'house'
   },
-  receipt: {
+  {
     img: 'receipt',
     mean: 'receipt',
     jp: {
@@ -3489,7 +3489,7 @@ export const words = {
     },
     category: 'city'
   },
-  recycle: {
+  {
     img: 'recycle',
     mean: 'recycle',
     jp: {
@@ -3499,7 +3499,7 @@ export const words = {
     },
     category: 'nature'
   },
-  refrigerator: {
+  {
     img: 'refrigerator',
     mean: 'refrigerator',
     jp: {
@@ -3509,7 +3509,7 @@ export const words = {
     },
     category: 'house'
   },
-  rhino: {
+  {
     img: 'rhino',
     mean: 'rhinoceros',
     jp: {
@@ -3519,7 +3519,7 @@ export const words = {
     },
     category: 'nature'
   },
-  rice: {
+  {
     img: 'rice',
     mean: 'rice (cooked)',
     jp: {
@@ -3529,7 +3529,7 @@ export const words = {
     },
     category: 'nature'
   },
-  riceuncooked: {
+  {
     img: 'riceuncooked',
     mean: 'rice (uncooked)',
     jp: {
@@ -3539,7 +3539,7 @@ export const words = {
     },
     category: 'nature'
   },
-  rock: {
+  {
     img: 'rock',
     mean: 'rock',
     jp: {
@@ -3549,7 +3549,7 @@ export const words = {
     },
     category: 'nature'
   },
-  room: {
+  {
     img: 'room',
     mean: 'room',
     jp: {
@@ -3559,7 +3559,7 @@ export const words = {
     },
     category: 'house'
   },
-  rope: {
+  {
     img: 'rope',
     mean: 'rope',
     jp: {
@@ -3569,7 +3569,7 @@ export const words = {
     },
     category: 'house'
   },
-  rose: {
+  {
     img: 'rose',
     mean: 'rose',
     jp: {
@@ -3579,7 +3579,7 @@ export const words = {
     },
     category: 'nature'
   },
-  rugby: {
+  {
     img: 'rugby',
     mean: 'rugby',
     jp: {
@@ -3589,7 +3589,7 @@ export const words = {
     },
     category: 'fun'
   },
-  ruler: {
+  {
     img: 'ruler',
     mean: 'ruler',
     jp: {
@@ -3599,7 +3599,7 @@ export const words = {
     },
     category: 'house'
   },
-  safe: {
+  {
     img: 'safe',
     mean: 'safe',
     jp: {
@@ -3609,7 +3609,7 @@ export const words = {
     },
     category: 'house'
   },
-  salt: {
+  {
     img: 'salt',
     mean: 'salt',
     jp: {
@@ -3619,7 +3619,7 @@ export const words = {
     },
     category: 'nature'
   },
-  sandcastle: {
+  {
     img: 'sandcastle',
     mean: 'sand castle',
     jp: {
@@ -3629,7 +3629,7 @@ export const words = {
     },
     category: 'fun'
   },
-  sandwich: {
+  {
     img: 'sandwich',
     mean: 'sandwich',
     jp: {
@@ -3639,7 +3639,7 @@ export const words = {
     },
     category: 'nature'
   },
-  sashimi: {
+  {
     img: 'sashimi',
     mean: 'sashimi',
     jp: {
@@ -3649,7 +3649,7 @@ export const words = {
     },
     category: 'nature'
   },
-  saturday: {
+  {
     img: 'saturday',
     mean: 'saturday',
     jp: {
@@ -3659,7 +3659,7 @@ export const words = {
     },
     category: 'time'
   },
-  sausage: {
+  {
     img: 'sausage',
     mean: 'sausage',
     jp: {
@@ -3669,7 +3669,7 @@ export const words = {
     },
     category: 'nature'
   },
-  scarf: {
+  {
     img: 'scarf',
     mean: 'scarf',
     jp: {
@@ -3679,7 +3679,7 @@ export const words = {
     },
     category: 'people'
   },
-  school: {
+  {
     img: 'school',
     mean: 'school',
     jp: {
@@ -3689,7 +3689,7 @@ export const words = {
     },
     category: 'city'
   },
-  schooluniform: {
+  {
     img: 'schooluniform',
     mean: 'school uniform',
     jp: {
@@ -3699,7 +3699,7 @@ export const words = {
     },
     category: 'people'
   },
-  science: {
+  {
     img: 'science',
     mean: 'science',
     jp: {
@@ -3709,7 +3709,7 @@ export const words = {
     },
     category: 'education'
   },
-  scissors: {
+  {
     img: 'scissors',
     mean: 'scissors',
     jp: {
@@ -3719,7 +3719,7 @@ export const words = {
     },
     category: 'house'
   },
-  scooter: {
+  {
     img: 'scooter',
     mean: 'scooter',
     jp: {
@@ -3729,7 +3729,7 @@ export const words = {
     },
     category: 'transportation'
   },
-  sea: {
+  {
     img: 'sea',
     mean: 'sea',
     jp: {
@@ -3739,7 +3739,7 @@ export const words = {
     },
     category: 'nature'
   },
-  seahorse: {
+  {
     img: 'seahorse',
     mean: 'sea horse',
     jp: {
@@ -3749,7 +3749,7 @@ export const words = {
     },
     category: 'nature'
   },
-  seal: {
+  {
     img: 'seal',
     mean: 'seal',
     jp: {
@@ -3759,7 +3759,7 @@ export const words = {
     },
     category: 'nature'
   },
-  september: {
+  {
     img: 'september',
     mean: 'september',
     jp: {
@@ -3769,7 +3769,7 @@ export const words = {
     },
     category: 'time'
   },
-  shampoo: {
+  {
     img: 'shampoo',
     mean: 'shampoo',
     jp: {
@@ -3779,7 +3779,7 @@ export const words = {
     },
     category: 'house'
   },
-  shark: {
+  {
     img: 'shark',
     mean: 'shark',
     jp: {
@@ -3789,7 +3789,7 @@ export const words = {
     },
     category: 'nature'
   },
-  sheep: {
+  {
     img: 'sheep',
     mean: 'sheep',
     jp: {
@@ -3799,7 +3799,7 @@ export const words = {
     },
     category: 'nature'
   },
-  ship: {
+  {
     img: 'ship',
     mean: 'ship',
     jp: {
@@ -3809,7 +3809,7 @@ export const words = {
     },
     category: 'transportation'
   },
-  shirt: {
+  {
     img: 'shirt',
     mean: 'shirt',
     jp: {
@@ -3819,7 +3819,7 @@ export const words = {
     },
     category: 'people'
   },
-  shoes: {
+  {
     img: 'shoes',
     mean: 'shoes',
     jp: {
@@ -3829,7 +3829,7 @@ export const words = {
     },
     category: 'people'
   },
-  shop: {
+  {
     img: 'shop',
     mean: 'shop',
     jp: {
@@ -3839,7 +3839,7 @@ export const words = {
     },
     category: 'city'
   },
-  ski: {
+  {
     img: 'ski',
     mean: 'ski',
     jp: {
@@ -3849,7 +3849,7 @@ export const words = {
     },
     category: 'fun'
   },
-  skirt: {
+  {
     img: 'skirt',
     mean: 'skirt',
     jp: {
@@ -3859,7 +3859,7 @@ export const words = {
     },
     category: 'people'
   },
-  slippers: {
+  {
     img: 'slippers',
     mean: 'slippers',
     jp: {
@@ -3869,7 +3869,7 @@ export const words = {
     },
     category: 'people'
   },
-  snail: {
+  {
     img: 'snail',
     mean: 'snail',
     jp: {
@@ -3879,7 +3879,7 @@ export const words = {
     },
     category: 'nature'
   },
-  snake: {
+  {
     img: 'snake',
     mean: 'snake',
     jp: {
@@ -3889,7 +3889,7 @@ export const words = {
     },
     category: 'nature'
   },
-  sneakers: {
+  {
     img: 'sneakers',
     mean: 'sneakers',
     jp: {
@@ -3899,7 +3899,7 @@ export const words = {
     },
     category: 'people'
   },
-  snowman: {
+  {
     img: 'snowman',
     mean: 'snowman',
     jp: {
@@ -3909,7 +3909,7 @@ export const words = {
     },
     category: 'fun'
   },
-  soap: {
+  {
     img: 'soap',
     mean: 'soap',
     jp: {
@@ -3919,7 +3919,7 @@ export const words = {
     },
     category: 'house'
   },
-  soccer: {
+  {
     img: 'soccer',
     mean: 'soccer',
     jp: {
@@ -3929,7 +3929,7 @@ export const words = {
     },
     category: 'fun'
   },
-  socks: {
+  {
     img: 'socks',
     mean: 'socks',
     jp: {
@@ -3939,7 +3939,7 @@ export const words = {
     },
     category: 'people'
   },
-  soda: {
+  {
     img: 'soda',
     mean: 'soda',
     jp: {
@@ -3949,7 +3949,7 @@ export const words = {
     },
     category: 'nature'
   },
-  soldier: {
+  {
     img: 'soldier',
     mean: 'soldier',
     jp: {
@@ -3959,7 +3959,7 @@ export const words = {
     },
     category: 'people'
   },
-  soup: {
+  {
     img: 'soup',
     mean: 'soup',
     jp: {
@@ -3969,7 +3969,7 @@ export const words = {
     },
     category: 'nature'
   },
-  soysauce: {
+  {
     img: 'soysauce',
     mean: 'soy sauce',
     jp: {
@@ -3979,7 +3979,7 @@ export const words = {
     },
     category: 'nature'
   },
-  spinach: {
+  {
     img: 'spinach',
     mean: 'spinach',
     jp: {
@@ -3989,7 +3989,7 @@ export const words = {
     },
     category: 'nature'
   },
-  spoon: {
+  {
     img: 'spoon',
     mean: 'spoon',
     jp: {
@@ -3999,7 +3999,7 @@ export const words = {
     },
     category: 'house'
   },
-  spring: {
+  {
     img: 'spring',
     mean: 'spring',
     jp: {
@@ -4009,7 +4009,7 @@ export const words = {
     },
     category: 'time'
   },
-  squid: {
+  {
     img: 'squid',
     mean: 'squid',
     jp: {
@@ -4019,7 +4019,7 @@ export const words = {
     },
     category: 'nature'
   },
-  squirrel: {
+  {
     img: 'squirrel',
     mean: 'squirrel',
     jp: {
@@ -4029,7 +4029,7 @@ export const words = {
     },
     category: 'nature'
   },
-  stairs: {
+  {
     img: 'stairs',
     mean: 'stairs',
     jp: {
@@ -4039,7 +4039,7 @@ export const words = {
     },
     category: 'house'
   },
-  stampletter: {
+  {
     img: 'stampletter',
     mean: 'stamp',
     jp: {
@@ -4049,7 +4049,7 @@ export const words = {
     },
     category: 'fun'
   },
-  star: {
+  {
     img: 'star',
     mean: 'star',
     jp: {
@@ -4059,7 +4059,7 @@ export const words = {
     },
     category: 'nature'
   },
-  stethoscope: {
+  {
     img: 'stethoscope',
     mean: 'stethoscope',
     jp: {
@@ -4069,7 +4069,7 @@ export const words = {
     },
     category: 'health'
   },
-  straw: {
+  {
     img: 'straw',
     mean: 'straw',
     jp: {
@@ -4079,7 +4079,7 @@ export const words = {
     },
     category: 'things'
   },
-  strawberry: {
+  {
     img: 'strawberry',
     mean: 'strawberry',
     jp: {
@@ -4089,7 +4089,7 @@ export const words = {
     },
     category: 'nature'
   },
-  stroller: {
+  {
     img: 'stroller',
     mean: 'stroller',
     jp: {
@@ -4099,7 +4099,7 @@ export const words = {
     },
     category: 'house'
   },
-  student: {
+  {
     img: 'student',
     mean: 'student',
     jp: {
@@ -4109,7 +4109,7 @@ export const words = {
     },
     category: 'people'
   },
-  subway: {
+  {
     img: 'subway',
     mean: 'subway',
     jp: {
@@ -4119,7 +4119,7 @@ export const words = {
     },
     category: 'transportation'
   },
-  sugar: {
+  {
     img: 'sugar',
     mean: 'sugar',
     jp: {
@@ -4129,7 +4129,7 @@ export const words = {
     },
     category: 'nature'
   },
-  summer: {
+  {
     img: 'summer',
     mean: 'summer',
     jp: {
@@ -4139,7 +4139,7 @@ export const words = {
     },
     category: 'time'
   },
-  sun: {
+  {
     img: 'sun',
     mean: 'sun',
     jp: {
@@ -4149,7 +4149,7 @@ export const words = {
     },
     category: 'nature'
   },
-  sunday: {
+  {
     img: 'sunday',
     mean: 'sunday',
     jp: {
@@ -4159,7 +4159,7 @@ export const words = {
     },
     category: 'time'
   },
-  sunflower: {
+  {
     img: 'sunflower',
     mean: 'sunflower',
     jp: {
@@ -4169,7 +4169,7 @@ export const words = {
     },
     category: 'nature'
   },
-  sunglasses: {
+  {
     img: 'sunglasses',
     mean: 'sunglasses',
     jp: {
@@ -4179,7 +4179,7 @@ export const words = {
     },
     category: 'people'
   },
-  surgeon: {
+  {
     img: 'surgeon',
     mean: 'surgeon',
     jp: {
@@ -4189,7 +4189,7 @@ export const words = {
     },
     category: 'people'
   },
-  sushi: {
+  {
     img: 'sushi',
     mean: 'sushi',
     jp: {
@@ -4199,7 +4199,7 @@ export const words = {
     },
     category: 'nature'
   },
-  swan: {
+  {
     img: 'swan',
     mean: 'swan',
     jp: {
@@ -4209,7 +4209,7 @@ export const words = {
     },
     category: 'nature'
   },
-  sweater: {
+  {
     img: 'sweater',
     mean: 'sweater',
     jp: {
@@ -4219,7 +4219,7 @@ export const words = {
     },
     category: 'people'
   },
-  sweetpotato: {
+  {
     img: 'sweetpotato',
     mean: 'sweet potato',
     jp: {
@@ -4229,7 +4229,7 @@ export const words = {
     },
     category: 'nature'
   },
-  swellfish: {
+  {
     img: 'swellfish',
     mean: 'swellfish',
     jp: {
@@ -4239,7 +4239,7 @@ export const words = {
     },
     category: 'nature'
   },
-  swimming: {
+  {
     img: 'swimming',
     mean: 'swimming',
     jp: {
@@ -4249,7 +4249,7 @@ export const words = {
     },
     category: 'fun'
   },
-  swimmingpool: {
+  {
     img: 'swimmingpool',
     mean: 'swimmingpool',
     jp: {
@@ -4259,7 +4259,7 @@ export const words = {
     },
     category: 'house'
   },
-  swimsuit: {
+  {
     img: 'swimsuit',
     mean: 'swim suit',
     jp: {
@@ -4269,7 +4269,7 @@ export const words = {
     },
     category: 'people'
   },
-  syringe: {
+  {
     img: 'syringe',
     mean: 'syringe',
     jp: {
@@ -4279,7 +4279,7 @@ export const words = {
     },
     category: 'health'
   },
-  tablet: {
+  {
     img: 'tablet',
     mean: 'tablet',
     jp: {
@@ -4289,7 +4289,7 @@ export const words = {
     },
     category: 'health'
   },
-  tabletennis: {
+  {
     img: 'tabletennis',
     mean: 'table tennis',
     jp: {
@@ -4299,7 +4299,7 @@ export const words = {
     },
     category: 'fun'
   },
-  taxi: {
+  {
     img: 'taxi',
     mean: 'taxi',
     jp: {
@@ -4309,7 +4309,7 @@ export const words = {
     },
     category: 'transportation'
   },
-  teacher: {
+  {
     img: 'teacher',
     mean: 'teacher',
     jp: {
@@ -4319,7 +4319,7 @@ export const words = {
     },
     category: 'people'
   },
-  teacup: {
+  {
     img: 'teacup',
     mean: 'teacup',
     jp: {
@@ -4329,7 +4329,7 @@ export const words = {
     },
     category: 'house'
   },
-  teapot: {
+  {
     img: 'teapot',
     mean: 'teapot',
     jp: {
@@ -4339,7 +4339,7 @@ export const words = {
     },
     category: 'house'
   },
-  telephone: {
+  {
     img: 'telephone',
     mean: 'telephone',
     jp: {
@@ -4349,7 +4349,7 @@ export const words = {
     },
     category: 'house'
   },
-  television: {
+  {
     img: 'television',
     mean: 'television',
     jp: {
@@ -4359,7 +4359,7 @@ export const words = {
     },
     category: 'house'
   },
-  temperature: {
+  {
     img: 'temperature',
     mean: 'temperature',
     jp: {
@@ -4369,7 +4369,7 @@ export const words = {
     },
     category: 'nature'
   },
-  tennis: {
+  {
     img: 'tennis',
     mean: 'tennis',
     jp: {
@@ -4379,7 +4379,7 @@ export const words = {
     },
     category: 'fun'
   },
-  textbook: {
+  {
     img: 'textbook',
     mean: 'textbook',
     jp: {
@@ -4389,7 +4389,7 @@ export const words = {
     },
     category: 'education'
   },
-  thespace: {
+  {
     img: 'thespace',
     mean: 'space',
     jp: {
@@ -4399,7 +4399,7 @@ export const words = {
     },
     category: 'nature'
   },
-  thief: {
+  {
     img: 'thief',
     mean: 'thief',
     jp: {
@@ -4409,7 +4409,7 @@ export const words = {
     },
     category: 'people'
   },
-  thursday: {
+  {
     img: 'thursday',
     mean: 'thursday',
     jp: {
@@ -4419,7 +4419,7 @@ export const words = {
     },
     category: 'time'
   },
-  ticket: {
+  {
     img: 'ticket',
     mean: 'ticket',
     jp: {
@@ -4429,7 +4429,7 @@ export const words = {
     },
     category: 'fun'
   },
-  toiletbowl: {
+  {
     img: 'toiletbowl',
     mean: 'toilet bowl',
     jp: {
@@ -4439,7 +4439,7 @@ export const words = {
     },
     category: 'house'
   },
-  toiletpaper: {
+  {
     img: 'toiletpaper',
     mean: 'toilet paper',
     jp: {
@@ -4449,7 +4449,7 @@ export const words = {
     },
     category: 'house'
   },
-  tooth: {
+  {
     img: 'tooth',
     mean: 'tooth',
     jp: {
@@ -4459,7 +4459,7 @@ export const words = {
     },
     category: 'people'
   },
-  toothbrush: {
+  {
     img: 'toothbrush',
     mean: 'tooth brush',
     jp: {
@@ -4469,7 +4469,7 @@ export const words = {
     },
     category: 'house'
   },
-  toothpaste: {
+  {
     img: 'toothpaste',
     mean: 'tooth paste',
     jp: {
@@ -4479,7 +4479,7 @@ export const words = {
     },
     category: 'house'
   },
-  top: {
+  {
     img: 'top',
     mean: 'top',
     jp: {
@@ -4489,7 +4489,7 @@ export const words = {
     },
     category: 'fun'
   },
-  towel: {
+  {
     img: 'towel',
     mean: 'towel',
     jp: {
@@ -4499,7 +4499,7 @@ export const words = {
     },
     category: 'house'
   },
-  tower: {
+  {
     img: 'tower',
     mean: 'tower',
     jp: {
@@ -4509,7 +4509,7 @@ export const words = {
     },
     category: 'city'
   },
-  toy: {
+  {
     img: 'toy',
     mean: 'toy',
     jp: {
@@ -4519,7 +4519,7 @@ export const words = {
     },
     category: 'fun'
   },
-  trafficcone: {
+  {
     img: 'trafficcone',
     mean: 'traffic cone',
     jp: {
@@ -4529,7 +4529,7 @@ export const words = {
     },
     category: 'transportation'
   },
-  trafficlight: {
+  {
     img: 'trafficlight',
     mean: 'traffic light',
     jp: {
@@ -4539,7 +4539,7 @@ export const words = {
     },
     category: 'transportation'
   },
-  train: {
+  {
     img: 'train',
     mean: 'train',
     jp: {
@@ -4549,7 +4549,7 @@ export const words = {
     },
     category: 'transportation'
   },
-  tree: {
+  {
     img: 'tree',
     mean: 'tree',
     jp: {
@@ -4559,7 +4559,7 @@ export const words = {
     },
     category: 'nature'
   },
-  tuesday: {
+  {
     img: 'tuesday',
     mean: 'tuesday',
     jp: {
@@ -4569,7 +4569,7 @@ export const words = {
     },
     category: 'time'
   },
-  tulip: {
+  {
     img: 'tulip',
     mean: 'tulip',
     jp: {
@@ -4579,7 +4579,7 @@ export const words = {
     },
     category: 'nature'
   },
-  turtle: {
+  {
     img: 'turtle',
     mean: 'tortoise/turtle',
     jp: {
@@ -4589,7 +4589,7 @@ export const words = {
     },
     category: 'nature'
   },
-  umbrella: {
+  {
     img: 'umbrella',
     mean: 'umbrella',
     jp: {
@@ -4599,7 +4599,7 @@ export const words = {
     },
     category: 'house'
   },
-  university: {
+  {
     img: 'university',
     mean: 'university',
     jp: {
@@ -4609,7 +4609,7 @@ export const words = {
     },
     category: 'city'
   },
-  vacuum: {
+  {
     img: 'vacuum',
     mean: 'vacuum cleaner',
     jp: {
@@ -4619,7 +4619,7 @@ export const words = {
     },
     category: 'house'
   },
-  vendingmachine: {
+  {
     img: 'vendingmachine',
     mean: 'vendingmachine',
     jp: {
@@ -4629,7 +4629,7 @@ export const words = {
     },
     category: 'city'
   },
-  vinegar: {
+  {
     img: 'vinegar',
     mean: 'vinegar',
     jp: {
@@ -4639,7 +4639,7 @@ export const words = {
     },
     category: 'nature'
   },
-  violin: {
+  {
     img: 'violin',
     mean: 'violin',
     jp: {
@@ -4649,7 +4649,7 @@ export const words = {
     },
     category: 'fun'
   },
-  vitamin: {
+  {
     img: 'vitamin',
     mean: 'vitamin',
     jp: {
@@ -4659,7 +4659,7 @@ export const words = {
     },
     category: 'health'
   },
-  wall: {
+  {
     img: 'wall',
     mean: 'wall',
     jp: {
@@ -4669,7 +4669,7 @@ export const words = {
     },
     category: 'house'
   },
-  wallet: {
+  {
     img: 'wallet',
     mean: 'wallet',
     jp: {
@@ -4679,7 +4679,7 @@ export const words = {
     },
     category: 'people'
   },
-  walnut: {
+  {
     img: 'walnut',
     mean: 'walnut',
     jp: {
@@ -4689,7 +4689,7 @@ export const words = {
     },
     category: 'nature'
   },
-  washingmachine: {
+  {
     img: 'washingmachine',
     mean: 'washing machine',
     jp: {
@@ -4699,7 +4699,7 @@ export const words = {
     },
     category: 'house'
   },
-  wasp: {
+  {
     img: 'wasp',
     mean: 'wasp',
     jp: {
@@ -4709,7 +4709,7 @@ export const words = {
     },
     category: 'nature'
   },
-  watch: {
+  {
     img: 'watch',
     mean: 'watch',
     jp: {
@@ -4719,7 +4719,7 @@ export const words = {
     },
     category: 'people'
   },
-  water: {
+  {
     img: 'water',
     mean: 'water',
     jp: {
@@ -4729,7 +4729,7 @@ export const words = {
     },
     category: 'nature'
   },
-  waterfall: {
+  {
     img: 'waterfall',
     mean: 'waterfall',
     jp: {
@@ -4739,7 +4739,7 @@ export const words = {
     },
     category: 'nature'
   },
-  watermelon: {
+  {
     img: 'watermelon',
     mean: 'watermelon',
     jp: {
@@ -4749,7 +4749,7 @@ export const words = {
     },
     category: 'nature'
   },
-  wave: {
+  {
     img: 'wave',
     mean: 'wave',
     jp: {
@@ -4759,7 +4759,7 @@ export const words = {
     },
     category: 'nature'
   },
-  wednesday: {
+  {
     img: 'wednesday',
     mean: 'wednesday',
     jp: {
@@ -4769,7 +4769,7 @@ export const words = {
     },
     category: 'time'
   },
-  whale: {
+  {
     img: 'whale',
     mean: 'whale',
     jp: {
@@ -4779,7 +4779,7 @@ export const words = {
     },
     category: 'nature'
   },
-  window: {
+  {
     img: 'window',
     mean: 'window',
     jp: {
@@ -4789,7 +4789,7 @@ export const words = {
     },
     category: 'house'
   },
-  wine: {
+  {
     img: 'wine',
     mean: 'wine',
     jp: {
@@ -4799,7 +4799,7 @@ export const words = {
     },
     category: 'nature'
   },
-  wing: {
+  {
     img: 'wing',
     mean: 'wing',
     jp: {
@@ -4809,7 +4809,7 @@ export const words = {
     },
     category: 'nature'
   },
-  winter: {
+  {
     img: 'winter',
     mean: 'winter',
     jp: {
@@ -4819,7 +4819,7 @@ export const words = {
     },
     category: 'time'
   },
-  wolf: {
+  {
     img: 'wolf',
     mean: 'wolf',
     jp: {
@@ -4829,7 +4829,7 @@ export const words = {
     },
     category: 'nature'
   },
-  xray: {
+  {
     img: 'xray',
     mean: 'x-ray',
     jp: {
@@ -4839,7 +4839,7 @@ export const words = {
     },
     category: 'health'
   },
-  xylophone: {
+  {
     img: 'xylophone',
     mean: 'xylophone',
     jp: {
@@ -4849,7 +4849,7 @@ export const words = {
     },
     category: 'fun'
   },
-  yarn: {
+  {
     img: 'yarn',
     mean: 'yarn',
     jp: {
@@ -4859,7 +4859,7 @@ export const words = {
     },
     category: 'things'
   },
-  yoga: {
+  {
     img: 'yoga',
     mean: 'yoga',
     jp: {
@@ -4869,7 +4869,7 @@ export const words = {
     },
     category: 'fun'
   },
-  yogurt: {
+  {
     img: 'yogurt',
     mean: 'yogurt',
     jp: {
@@ -4879,7 +4879,7 @@ export const words = {
     },
     category: 'nature'
   },
-  zebra: {
+  {
     img: 'zebra',
     mean: 'zebra',
     jp: {
@@ -4889,7 +4889,7 @@ export const words = {
     },
     category: ''
   },
-  zip: {
+  {
     img: 'zip',
     mean: 'zip/zipper',
     jp: {
@@ -4899,4 +4899,4 @@ export const words = {
     },
     category: 'things'
   }
-}
+] as const
