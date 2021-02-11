@@ -16,7 +16,10 @@ export default function Home() {
             'Discover new japanese words each time you see the page.',
           images: [
             {
-              url: 'https://japanese-words.vercel.app/img/cover.png'
+              url: 'https://japanese-words.vercel.app/img/cover.png',
+              width: 1280,
+              height: 720,
+              alt: 'Japanese Words'
             }
           ],
           site_name: 'JapaneseWords'
