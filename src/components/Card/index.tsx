@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import * as S from './styles'
 
 export type CardProps = {
@@ -11,7 +12,7 @@ export type CardProps = {
 const Card = ({ image, hiragana, romanji, meaning, kanji }: CardProps) => (
   <S.Wrapper>
     <S.ImageWrapper>
-      <img src={`/img/${image}.png`} alt={meaning} width={280} height={280} />
+      <Image src={`/img/${image}.png`} alt={meaning} width={280} height={280} />
     </S.ImageWrapper>
 
     <S.Block>
