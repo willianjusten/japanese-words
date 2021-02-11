@@ -34,7 +34,6 @@ const Main = () => {
 
         <S.Icon>
           <RefreshOutline
-            size={40}
             title="Get new word"
             onClick={() => setWord(data[randomWord()])}
           />

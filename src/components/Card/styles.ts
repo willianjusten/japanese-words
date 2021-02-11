@@ -1,4 +1,5 @@
 import styled from 'styled-components'
+import media from 'styled-media-query'
 
 export const Block = styled.div`
   border-top: 1px solid;
@@ -6,16 +7,26 @@ export const Block = styled.div`
 `
 
 export const Wrapper = styled.main`
-  max-width: 40rem;
+  max-width: 35rem;
   background: #f231a5;
   color: white;
   padding: 5rem 2rem;
   margin: 0 2rem;
   border-radius: 0.6rem;
+
+  ${media.lessThan('medium')`
+    padding: 1rem 1.5rem;
+    margin: 3rem 1rem;
+  `}
 `
 
 export const ImageWrapper = styled.div`
   margin-bottom: 4rem;
+
+  ${media.lessThan('medium')`
+    margin-bottom: 2rem;
+    max-width: 20rem;
+  `}
 
   img {
     filter: contrast(0) brightness(2);
