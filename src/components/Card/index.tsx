@@ -11,7 +11,7 @@ export type CardProps = {
 const Card = ({ image, hiragana, romanji, meaning, kanji }: CardProps) => (
   <S.Wrapper>
     <S.ImageWrapper>
-      <img src={`/img/${image}.png`} alt={meaning} width={300} height={300} />
+      <img src={`/img/${image}.png`} alt={meaning} width={280} height={280} />
     </S.ImageWrapper>
 
     <S.Block>
