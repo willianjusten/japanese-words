@@ -37,6 +37,7 @@ export const ImageWrapper = styled.div`
 export const Japanese = styled.h1`
   display: inline;
   font-size: 3rem;
+  font-weight: 400;
 `
 
 export const Meaning = styled.span`
