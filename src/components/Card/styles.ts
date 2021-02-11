@@ -7,7 +7,7 @@ export const Block = styled.div`
 `
 
 export const Wrapper = styled.main`
-  max-width: 35rem;
+  width: 35rem;
   background: #f231a5;
   color: white;
   padding: 5rem 2rem;
@@ -15,6 +15,7 @@ export const Wrapper = styled.main`
   border-radius: 0.6rem;
 
   ${media.lessThan('medium')`
+    width: 30rem;
     padding: 1rem 1.5rem;
     margin: 3rem 1rem;
   `}
