@@ -8,15 +8,15 @@ export default function Home() {
       <NextSeo
         title="Japanese Words"
         description="Discover new japanese words each time you see the page."
-        canonical="https://learnjapanese.vercel.app"
+        canonical="https://japanese-words.vercel.app"
         openGraph={{
-          url: 'https://learnjapanese.vercel.app',
+          url: 'https://japanese-words.vercel.app',
           title: 'Japanese Words',
           description:
             'Discover new japanese words each time you see the page.',
           images: [
             {
-              url: 'https://learnjapanese.vercel.app/img/cover.png'
+              url: 'https://japanese-words.vercel.app/img/cover.png'
             }
           ],
           site_name: 'JapaneseWords'
