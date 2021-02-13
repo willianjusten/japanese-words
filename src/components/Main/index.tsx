@@ -53,14 +53,14 @@ const Main = () => {
         />
 
         <S.IconWrapper>
-          <S.Icon>
+          <S.Icon animation="pulse">
             <VolumeUpOutline
               onClick={() => speak(word.jp.wd)}
               title="Hear the pronunciation"
             />
           </S.Icon>
 
-          <S.Icon>
+          <S.Icon animation="rotate">
             <RefreshOutline
               onClick={() => setWord(data[randomWord()])}
               title="Get new word"
