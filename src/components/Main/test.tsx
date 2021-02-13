@@ -11,6 +11,9 @@ describe('<Main />', () => {
     expect(
       screen.getByRole('img', { name: /get new word/i })
     ).toBeInTheDocument()
+    expect(
+      screen.getByRole('img', { name: /Hear the pronunciation/i })
+    ).toBeInTheDocument()
   })
 
   it('should change the word when clicking to get new word', () => {

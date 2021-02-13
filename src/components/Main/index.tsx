@@ -31,10 +31,9 @@ const Main = () => {
   }, [])
 
   const speak = (word: string) => {
-    const patchedWord = word?.split('-').join('')
     const utterance = new SpeechSynthesisUtterance()
 
-    utterance.text = patchedWord
+    utterance.text = word
     utterance.lang = 'ja-JP'
     utterance.voice = voice
     utterance.rate = 0.8
@@ -56,7 +55,7 @@ const Main = () => {
         <S.IconWrapper>
           <S.Icon>
             <VolumeUpOutline
-              onClick={() => speak(word.jp.rmj)}
+              onClick={() => speak(word.jp.wd)}
               title="Hear the pronunciation"
             />
           </S.Icon>
