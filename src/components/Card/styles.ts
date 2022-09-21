@@ -13,6 +13,8 @@ export const Wrapper = styled.main`
   padding: 5rem 2rem;
   margin: 0 2rem;
   border-radius: 0.6rem;
+  display: flex;
+  justify-content: center;
 
   ${media.lessThan('medium')`
     width: 30rem;
