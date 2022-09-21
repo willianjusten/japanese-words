@@ -13,8 +13,6 @@ export const Wrapper = styled.main`
   padding: 5rem 2rem;
   margin: 0 2rem;
   border-radius: 0.6rem;
-  display: flex;
-  justify-content: center;
 
   ${media.lessThan('medium')`
     width: 30rem;
@@ -25,6 +23,8 @@ export const Wrapper = styled.main`
 
 export const ImageWrapper = styled.div`
   margin-bottom: 4rem;
+  display: flex;
+  justify-content: center;
 
   ${media.lessThan('medium')`
     margin-bottom: 2rem;
